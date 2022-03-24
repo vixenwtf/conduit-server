@@ -7,7 +7,7 @@ const logSymbols = require('log-symbols');
 const green = chalk.hex('4caf50')
 const logUpdate = require('log-update');
 const axios = require('axios');
-var msg = "pneumonoultramicroscopicsilicovolcanoconiosis";  
+var msg = "pneumonoultramicroscopicsilicovolcanoconiosis";  0
 app.get('/', (req, res) => {
     res.send(msg)
 })
@@ -29,8 +29,8 @@ console.clear()
 axios.get('https://api64.ipify.org?format=json')
   .then(function (response) {
     // handle success
-    app.listen(3000, () => console.log(logSymbols.success + ` Conduit@vxnwtf has started sucessfully.\n ${logSymbols.info} URL ${royalblue.bold('http://localhost:3000')}\n ${logSymbols.info} IP: ${response.data.ip}\n`))
-  })
+    app.listen(3000, () => console.log(logSymbols.success + ` Conduit@vxnwtf has started sucessfully.\n ${logSymbols.info} URL ${royalblue.bold('http://localhost:3000')}\n ${logSymbols.info} IP: ${royalblue.bold(`http://${response.data.ip}:3000`)}\n ${logSymbols.info} If the IP does not look correct, theres probably a issue. Please check ${royalblue.bold('/server/logs/errors')}.`)
+  )})
   .catch(function (error) {
     // handle error
     console.log(error);
