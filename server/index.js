@@ -20,6 +20,7 @@ app.get('/api/:txt', (req, res) => {
         res.status(403).jsonp({ error: "Permission Denied. Your request has been logged to the server and has been acknowledged." })
         console.log(logSymbols.warning + " " + req.params.txt + " " + req.ip)
 
+      
     }
 })
 app.get('/online', (req, res) => {
