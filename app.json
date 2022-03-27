@@ -1,0 +1,7 @@
+{
+  "name": "Conduit's Server",
+  "description": "Learn more in the repo.",
+  "repository": "https://github.com/vixenwtf/conduit",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "roblox"]
+}
