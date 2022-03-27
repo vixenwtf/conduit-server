@@ -11,6 +11,6 @@
 3. Drag `server` to any folder you please. 
 4. Type in the folder you please's terminal `npm install`, and then `node .`.
 5. Copy and paste the scripts to their folders. 
-6. Install Rostrap UI.
+6. Install Rostrap UI and TopbarPlus.
 7. Run the roblox game.
 8. Fork to your heart's desire.
