@@ -2,8 +2,7 @@
 ## I am suicidal because of this.
 [![Run on Repl.it](https://repl.it/badge/github/vixenwtf/conduit)](https://repl.it/github/vixenwtf/conduit)
 
-![GitHub](https://img.shields.io/github/license/vixenwtf/conduit?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/vixenwtf/conduit?style=for-the-badge)
-# Installation
+![GitHub](https://img.shields.io/github/license/vixenwtf/conduit?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vixenwtf/conduit?style=for-the-badge)
 ## To install Conduit, steps are below.
 1. A basic understanding of fucking lua.
 2. Install Node.js v16+.
