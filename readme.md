@@ -2,7 +2,7 @@
 ## I am suicidal because of this.
 [![Run on Repl.it](https://repl.it/badge/github/vixenwtf/conduit)](https://repl.it/github/vixenwtf/conduit)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/vixenwtf/conduit?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/vixenwtf/conduit?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/vixenwtf/conduit?style=for-the-badge)
 # Installation
 ## To install Conduit, steps are below.
 1. A basic understanding of fucking lua.
